@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GBXVSXR2WMEM4TO2JNQLKBN67JX5IALBSGUUX5CS6PYWCK5F5SWBURQD"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Democratix"
+ORG_URL="https://www.democratix.org"
+ORG_DESCRIPTION="Democratix guarantees a strong policy for the American people, through our safe asset transactions. The injustice needs to be replaced with equality, consent and freedom. DMX cryptocurrency is the start of a new era, where the people have the authority and the crypto-market is our future means of payment."
+ORG_TWITTER="@@Democratix"
+ORG_LOGO="https://i.ibb.co/Qc15XHg/logo-democratix.png"
+ORG_OFFICIAL_EMAIL="support@democratix.org"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="DEMO"
+issuer="GBXVSXR2WMEM4TO2JNQLKBN67JX5IALBSGUUX5CS6PYWCK5F5SWBURQD"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Democratix"
+desc="Democratix guarantees a strong policy for the American people, through our safe asset transactions. The injustice needs to be replaced with equality, consent and freedom. DMX cryptocurrency is the start of a new era, where the people have the authority and the crypto-market is our future means of payment."
+conditions="There will only ever be 10 million DEMO tokens in existence"
+image="https://i.ibb.co/Qc15XHg/logo-democratix.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#Democratix was issued using the open and inclusive Stellar blockchain network.
